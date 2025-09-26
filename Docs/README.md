@@ -87,7 +87,7 @@ FUTURE_ML_02/
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harshvardhan-gandhi/FUTURE_ML_01.git
+   git clone https://github.com/harshvardhan-gandhi/FUTURE_ML_02.git
 2. Navigate into the project folder:
    cd FUTURE_ML_02/code
 
