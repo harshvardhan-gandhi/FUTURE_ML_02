@@ -84,14 +84,6 @@ FUTURE_ML_02/
 
 ---
 
-## 📸 Dashboard Preview  
-![Dashboard Screenshot 1](../dashboard/SS1.png)
-![Dashboard Screenshot 2](../dashboard/mat_roc.png)
-![Dashboard Screenshot 3](../dashboard/churn_visuals.png)
-![Dashboard Screenshot 3](../dashboard/churn_drivers.png)
-
----
-
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
